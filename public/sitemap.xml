@@ -34,7 +34,15 @@
     <lastmod>2024-04-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/post/post5/</loc>
+    <lastmod>2024-04-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/post/post3/</loc>
+    <lastmod>2024-04-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/post6/</loc>
     <lastmod>2024-04-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
